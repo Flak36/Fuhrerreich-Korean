@@ -3,34 +3,33 @@
 ### Political Parties ###
 
 BUL_vanguardist_party:0 "BANU"
-BUL_vanguardist_party_long:0 "Bulgariski Zemedelski Naroden Sayuz"
+BUL_vanguardist_party_long:0 "불가리아 농민연합"
 BUL_collectivist_party:0 "BKP"
-BUL_collectivist_party_long:0 "Bâlgarska Komunisticheska Partiya"
+BUL_collectivist_party_long:0 "불가리아 공산당"
 BUL_libertarian_socialist_party:0 "BRSDP"
-BUL_libertarian_socialist_party_long:0 "Balgarska rabotnicheska sotsialdemokraticheska partia"
-BUL_social_democrat_party:0 "DA"
-BUL_social_democrat_party_long:0 "Demokratičen alians"
+BUL_libertarian_socialist_party_long:0 "불가리아 노동자 사회민주당"
+BUL_social_democrat_party:0 "DA"0
+BUL_social_democrat_party_long:0 "민주연합"
 BUL_social_liberal_party:0 "RDP"
-BUL_social_liberal_party_long:0 "Radikalna Demokratičeska Partija"
+BUL_social_liberal_party_long:0 "급진민주당"
 BUL_market_liberal_party:0 "DP"
-BUL_market_liberal_party_long:0 "Demokraticheska partia"
+BUL_market_liberal_party_long:0 "민주당"
 BUL_social_conservative_party:0 "Zveno"
-BUL_social_conservative_party_long:0 "Zveno"
+BUL_social_conservative_party_long:0 "즈베노"
 BUL_authoritarian_democrat_party:0 "HSCGK"
-BUL_authoritarian_democrat_party_long:0 "House of Saxe-Coburg-Gotha-Koháry"
+BUL_authoritarian_democrat_party_long:0 "작센-코부르크-고타-코하리 왕조"
 BUL_paternal_autocrat_party:0 "EPB"
-BUL_paternal_autocrat_party_long:0 "Ekstremistki Partija na Bălgarija"
+BUL_paternal_autocrat_party_long:0 "불가리아 극단주의당"
 BUL_national_populist_party:0 "PP"
-BUL_national_populist_party_long:0 "Populistka partija"
+BUL_national_populist_party_long:0 "인민당"
 BUL_valkist_party:0 "NSD"
-BUL_valkist_party_long:0 "Narodno socialno dviženie"
+BUL_valkist_party_long:0 "국가사회운동"
 
 ### Focus ###
 
-
 ### Events ###
 
-bulgaria.1.d:0 "Following Bulgaria's defeat in the Great War and the disastrous 'Neuilly treaty', the situation in Bulgaria is critical. Even before the signing of the treaty itself, Bulgaria was in turmoil, as the soliders on the front openly rebelled against the government, marching towards the capital. In an act of desperation, the government sends out Aleksandar Stambolisky and Raiko Daskalov to appease the rebels. Ultimately, the rebellion fails, but both of them are given amnesty. \n Afterwards, the Bulgarian Agrarian National Union (BANU) wins the following elections in 1919, becoming one of the first leftist parties to get elected. \n\n Due to Kirov's Internationalism, the Bulgarian Communist Party & the BANU are far more cooperative between each other, forming a powerful political union between them. Meanwhile, Stambolisky was hellbent on seizing all power and cutting any way for the legal opposition to exist, while the Orange Guard, essentially a parallel army made up with party loyalists, was beginning to grow in size, taking part in events such as disrupting Constitutional Block's attempt to congregate in Turnovo on how to counter Stambolisky. On 5th of February 1927, after sustaining numerous wounds by a bomb, Aleksandar Stambolisky passwed away. This sends the BANU-BCP union in temporary chaos. The more militant wing of BANU, led by Raiko Daskalov, now PM instead of Stambolisky, wanted to begin a revolution immediately. \n However, reactionary forces orchestrated a coup on 3rd of March with Daskalov barely escaping. A state of martial law was declared thorough the country, only for the Orange Guard and the peasantry rising on a rebellion. Per the guidance of USSR, BCP remained mostly neutral, leading to the rebellion being crushed in the most awful way. This soon turned out to be a mistake on BCP's part, as the new government, led by the 'Bloody Professor', Alexandar Tsankov, turned out to be ruthless towards any leftists. The White Terror that soon followed was one of the bloodiest periods in Bulgarian history. Tsankov's actions backfired as the government was once again couped. This helped the Tsar to install a loyal only to him government, a situation that has continued to this very day."
+bulgaria.1.d:0 "대전쟁에서의 불가리아의 패배와 참담한'뇌이 조약'이후, 불가리아는 위태로운 상황에 처해있습니다. 조약에 서명되기도전에, 불가리아는 혼란에 빠졌습니다, 전선에 있던 군인들이 공개적으로 정부에 반항하면서, 수도로 행진하였습니다. 이 자포자기적인 행동에, 정부는 알렉산드르 스탐볼리스키와 라이코 다스칼로프를 보내 반란군들을 진정시켰습니다. 궁극적으로, 반란은 실패했지만 이들 둘다는 사면을 받았습니다.\n Afterwards, the Bulgarian Agrarian National Union (BANU) wins the following elections in 1919, becoming one of the first leftist parties to get elected. \n\n Due to Kirov's Internationalism, the Bulgarian Communist Party & the BANU are far more cooperative between each other, forming a powerful political union between them. Meanwhile, Stambolisky was hellbent on seizing all power and cutting any way for the legal opposition to exist, while the Orange Guard, essentially a parallel army made up with party loyalists, was beginning to grow in size, taking part in events such as disrupting Constitutional Block's attempt to congregate in Turnovo on how to counter Stambolisky. On 5th of February 1927, after sustaining numerous wounds by a bomb, Aleksandar Stambolisky passwed away. This sends the BANU-BCP union in temporary chaos. The more militant wing of BANU, led by Raiko Daskalov, now PM instead of Stambolisky, wanted to begin a revolution immediately. \n However, reactionary forces orchestrated a coup on 3rd of March with Daskalov barely escaping. A state of martial law was declared thorough the country, only for the Orange Guard and the peasantry rising on a rebellion. Per the guidance of USSR, BCP remained mostly neutral, leading to the rebellion being crushed in the most awful way. This soon turned out to be a mistake on BCP's part, as the new government, led by the 'Bloody Professor', Alexandar Tsankov, turned out to be ruthless towards any leftists. The White Terror that soon followed was one of the bloodiest periods in Bulgarian history. Tsankov's actions backfired as the government was once again couped. This helped the Tsar to install a loyal only to him government, a situation that has continued to this very day."
 bulgaria.2.d:0 "We have signed a pact of alliance withh Hungary against Romania, under the pretense that we would be given back the lands of Dobrudja in victory. Now Hungary finds herself at war with Romania, and they are calling upon us to join them. Shall we honour our treaty?"
 bulgaria.3.d:0 "Gunshots were heard outside of the city of Sofia earlier today, and it was not long until the paramilitary wing of the BKP party had taken control over the central government buildings. It has been revealed that they were heavily backed by the socialist government in Hungary! They seem to have a non-agression pact planned, with the hopes of turning it into a formal alliance in the future\n\n Ultimately, this revolution is poorly armed, and we might be able to crush it if we are to dedicate a large portion of our manpower to it."
 
